@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Vue.js
+#### 🌱 I’m currently learning Vue.js
